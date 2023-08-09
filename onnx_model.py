@@ -1,5 +1,5 @@
 '''
-WebNN ops support status for ONNX models.
+ONNX model required ops, and data types for the ops.
 '''
 import os
 import argparse
